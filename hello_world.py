@@ -1,4 +1,4 @@
-# A simple hello world command line program. Do git!
+# A simple hello world command line program. Do git! Change!!
 
-
-print("Hello, world!")
+name = input("What is your name?\n\n")
+print("Hello, " +name+")
